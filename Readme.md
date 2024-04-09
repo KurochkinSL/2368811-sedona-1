@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Сергей Курочкин](https://up.htmlacademy.ru/htmlcss-individual/1/user/2368811).
-* Наставник: `Неизвестно`.
+* Наставник: Ольга Ветер.https://htmlacademy.ru/profile/id73199
 
 ---
 
